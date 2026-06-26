@@ -1,0 +1,7 @@
+player has:
+health
+luck
+attack
+defense
+gold
+
